@@ -37,7 +37,7 @@ optional arguments:
 * Middle Figure: Warped image
 * Right Figure: Reference image
 
-In any of the left figure and the right figure:
+In any of the left figure  the right figure:
 
 * Left click: add keypoint
 * Right click + Drag: move nearest keypoint
